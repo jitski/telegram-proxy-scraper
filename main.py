@@ -1,6 +1,7 @@
 import requests
 import telegram
 import time
+import python-telegram-bot
 from telegram.ext import Updater, CommandHandler
 print("Telegram Proxy scraper by Jitski.")
 # Replace with your own Telegram bot token and chat ID
